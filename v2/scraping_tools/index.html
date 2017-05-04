@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <script src = "./sort.json"></script>
+
+    <script>
+      var arr = [];
+      for (var i =0; i < data.length;i++){
+        var str = data[i].img;
+        str = str.replace(/\D/g,'');
+        arr.push(str);
+        document.body.innerHTML += str+",";
+      }
+
+      //console.log(JSON.stringify(arr));
+    </script>
+  <!---  <script>
+      for (var i =0; i < data.length;i++){
+        var str = data[i].img;
+        str = str.replace(/\D/g,'');
+        data[i].id = str;
+      }
+
+      console.log(data);
+    </script>--->
+  </body>
+</html>
