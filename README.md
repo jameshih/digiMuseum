@@ -40,5 +40,5 @@
 
 <h2>Demo</h2>
 <p align="center">
-[![Demo](http://img.youtube.com/v1/whgXFb7pLsg/0.jpg)](https://youtu.be/whgXFb7pLsg)
+[![Demo](http://img.youtube.com/vi/whgXFb7pLsg/0.jpg)](https://youtu.be/whgXFb7pLsg)
 </p>
