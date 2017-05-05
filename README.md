@@ -40,5 +40,5 @@
 
 <h2>Demo</h2>
 <p align="center">
-[![Alt text](https://youtu.be/whgXFb7pLsg)](https://youtu.be/whgXFb7pLsg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/whgXFb7pLsg" frameborder="0" allowfullscreen></iframe>
 </p>
