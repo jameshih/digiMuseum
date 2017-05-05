@@ -22,4 +22,5 @@ public:
         
     //variables
     int colorNum = 0;
+     bool conInfo = false;
 };

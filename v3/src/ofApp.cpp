@@ -53,8 +53,6 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    
-    
     imgload.draw();
     if(trippy == true){
         ofColor colorOne(r, g, b);
@@ -118,6 +116,14 @@ void ofApp::keyPressed(int key){
         if(trippy == true)trippy = false;
         else if (trippy == false) trippy = true;
     }
+    
+    if(key == OF_KEY_CONTROL){
+        if(drawtext.conInfo == true)drawtext.conInfo = false;
+        else if (drawtext.conInfo == false) drawtext.conInfo = true;
+
+    }
+    
+    if(key == OF_KEY_RETURN)ofToggleFullscreen();
     
 }
 

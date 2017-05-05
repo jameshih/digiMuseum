@@ -32,6 +32,7 @@ public:
         
     //variables
     bool trippy = false;
+    bool fullScreen = true;
     float r,g,b,r2,g2,b2,counter;
     int interval = 1;
     int limNum = 700;
