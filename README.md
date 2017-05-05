@@ -40,5 +40,5 @@
 
 <h2>Demo</h2>
 <p align="center">
-[![Demo](https://github.com/jimmyadg/digiMuseum/blob/master/screenshots/overview.png)](https://youtu.be/whgXFb7pLsg)
+[![Demo](https://github.com/jimmyadg/digiMuseum/blob/master/screenshots/overview.png)(https://youtu.be/whgXFb7pLsg)]
 </p>
