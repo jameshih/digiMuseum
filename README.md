@@ -39,4 +39,6 @@
 <br/>
 
 <h2>Demo</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/whgXFb7pLsg" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+[![Demo](https://github.com/jimmyadg/digiMuseum/blob/master/screenshots/overview.png)](https://youtu.be/whgXFb7pLsg)
+</p>
