@@ -39,6 +39,4 @@
 <br/>
 
 <h2>Demo</h2>
-<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whgXFb7pLsg" frameborder="0" allowfullscreen></iframe>
-</p>
