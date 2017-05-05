@@ -35,3 +35,10 @@
 <p align="center">
 <img src= "https://github.com/jimmyadg/digiMuseum/blob/master/screenshots/info.png" width="500"/>
 </p>
+
+<br/>
+
+<h2>Demo</h2>
+<p align="center">
+[![IMAGE ALT TEXT HERE](https://youtu.be/whgXFb7pLsg)](https://youtu.be/whgXFb7pLsg)
+</p>
