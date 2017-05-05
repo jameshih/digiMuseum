@@ -39,6 +39,5 @@
 <br/>
 
 <h2>Demo</h2>
-<p align="center">
-[![Demo](http://img.youtube.com/vi/whgXFb7pLsg/0.jpg)](http://www.youtube.com/watch?v=whgXFb7pLsg)
-</p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/whgXFb7pLsg/0.jpg)](https://www.youtube.com/watch?v=whgXFb7pLsg)
