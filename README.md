@@ -40,5 +40,5 @@
 
 <h2>Demo</h2>
 <p align="center">
-[![](https://youtu.be/whgXFb7pLsg)](https://youtu.be/whgXFb7pLsg)
+[![Alt text](https://youtu.be/whgXFb7pLsg)](https://youtu.be/whgXFb7pLsg)
 </p>
