@@ -20,7 +20,7 @@
 <br/>
 
 <h2>Flying Overview</h2>
-<p>The visualization loads 3000 artworks at a time, which users can fly above the environment to glance at whole loaded collection.</p>
+<p>The visualization loads 3000 artworks at a time, which users can fly above the environment to glance at the whole loaded collection.</p>
 
 </br>
 <p align="center">
