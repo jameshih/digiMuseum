@@ -41,3 +41,9 @@
 <h2>Demo</h2>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/whgXFb7pLsg/0.jpg)](https://www.youtube.com/watch?v=whgXFb7pLsg)
+
+
+<br/>
+
+<h2>Todo List</h2>
+- [ ] Fix Image distances
